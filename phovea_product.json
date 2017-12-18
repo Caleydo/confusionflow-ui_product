@@ -1,0 +1,9 @@
+[
+  {
+    "type": "web",
+    "label": "MyService",
+    "repo": "caleydo/malevo",
+    "branch": "develop",
+    "additional": []
+  }
+]
