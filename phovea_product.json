@@ -1,8 +1,15 @@
 [
   {
     "type": "web",
-    "label": "MyService",
+    "label": "malevo",
     "repo": "caleydo/malevo",
+    "branch": "develop",
+    "additional": []
+  },
+  {
+    "type": "api",
+    "label": "malevo_server",
+    "repo": "phovea/phovea_server",
     "branch": "develop",
     "additional": []
   }
