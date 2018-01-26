@@ -3,7 +3,7 @@
     "type": "web",
     "label": "malevo",
     "repo": "Caleydo/malevo",
-    "branch": "develop",
+    "branch": "master",
     "additional": []
   },
   {
@@ -15,7 +15,8 @@
     "data": [
       {
         "type": "repo",
-        "repo": "Caleydo/malevo"
+        "repo": "Caleydo/malevo",
+        "branch": "master"
       }
     ]
   }
