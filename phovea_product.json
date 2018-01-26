@@ -15,7 +15,8 @@
     "data": [
       {
         "type": "repo",
-        "repo": "Caleydo/malevo"
+        "repo": "Caleydo/malevo",
+        "branch": "develop"
       }
     ]
   }
