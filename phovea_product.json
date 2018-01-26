@@ -2,7 +2,7 @@
   {
     "type": "web",
     "label": "malevo",
-    "repo": "caleydo/malevo",
+    "repo": "Caleydo/malevo",
     "branch": "develop",
     "additional": []
   },
@@ -11,6 +11,12 @@
     "label": "malevo_server",
     "repo": "phovea/phovea_server",
     "branch": "develop",
-    "additional": []
+    "additional": [],
+    "data": [
+      {
+        "type": "repo",
+        "repo": "Caleydo/malevo"
+      }
+    ]
   }
 ]
