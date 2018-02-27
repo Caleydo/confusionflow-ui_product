@@ -19,10 +19,6 @@
       },
       {
         "type": "url",
-        "url": "malevo_cifar10_example.db"
-      },
-      {
-        "type": "url",
         "url": "malevo_cifar10_rundata.db"
       },
       {
