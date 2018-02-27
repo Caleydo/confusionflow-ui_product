@@ -14,9 +14,20 @@
     "additional": [],
     "data": [
       {
-        "type": "repo",
-        "repo": "Caleydo/malevo",
-        "branch": "develop"
+        "type": "url",
+        "url": "malevo_cifar10_data.mdb"
+      },
+      {
+        "type": "url",
+        "url": "malevo_cifar10_example.db"
+      },
+      {
+        "type": "url",
+        "url": "malevo_cifar10_rundata.db"
+      },
+      {
+        "type": "url",
+        "url": "malevo_cifar10_lock.mdb"
       }
     ]
   }
