@@ -3,7 +3,7 @@
     "type": "web",
     "label": "malevo",
     "repo": "Caleydo/malevo",
-    "branch": "develop",
+    "branch": "gfrogat/features/api",
     "additional": []
   },
   {
@@ -28,7 +28,7 @@
       {
         "type": "repo",
         "repo": "Caleydo/malevo",
-        "branch": "develop"
+        "branch": "gfrogat/features/api"
       }
     ]
   }
