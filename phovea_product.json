@@ -11,7 +11,13 @@
     "label": "malevo_server",
     "repo": "phovea/phovea_server",
     "branch": "develop",
-    "additional": [],
+    "additional": [
+      {
+        "name": "malevo_api",
+        "repo": "Caleydo/malevo",
+        "branch": "gfrogat/features/api"
+      }
+    ],
     "data": [
       {
         "type": "url",
