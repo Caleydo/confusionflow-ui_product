@@ -24,6 +24,11 @@
       {
         "type": "url",
         "url": "malevo_cifar10_lock.mdb"
+      },
+      {
+        "type": "repo",
+        "repo": "Caleydo/malevo",
+        "branch": "develop"
       }
     ]
   }
