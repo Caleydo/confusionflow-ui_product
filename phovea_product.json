@@ -13,7 +13,7 @@
     "branch": "develop",
     "additional": [
       {
-        "type": "repo",
+        "name": "malevo",
         "repo": "Caleydo/malevo",
         "branch": "gfrogat/features/api"
       }
