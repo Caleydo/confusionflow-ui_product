@@ -3,7 +3,7 @@
     "type": "web",
     "label": "malevo",
     "repo": "Caleydo/malevo",
-    "branch": "develop",
+    "branch": "gfrogat/features/api",
     "additional": []
   },
   {
@@ -11,7 +11,13 @@
     "label": "malevo_server",
     "repo": "phovea/phovea_server",
     "branch": "develop",
-    "additional": [],
+    "additional": [
+      {
+        "name": "malevo",
+        "repo": "Caleydo/malevo",
+        "branch": "gfrogat/features/api"
+      }
+    ],
     "data": [
       {
         "type": "url",
@@ -28,7 +34,7 @@
       {
         "type": "repo",
         "repo": "Caleydo/malevo",
-        "branch": "develop"
+        "branch": "gfrogat/features/api"
       }
     ]
   }
