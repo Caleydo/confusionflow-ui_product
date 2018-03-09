@@ -15,7 +15,7 @@
       {
         "name": "malevo",
         "repo": "Caleydo/malevo",
-        "branch": "gfrogat/features/api"
+        "branch": "develop"
       }
     ],
     "data": [
@@ -34,7 +34,7 @@
       {
         "type": "repo",
         "repo": "Caleydo/malevo",
-        "branch": "gfrogat/features/api"
+        "branch": "develop"
       }
     ]
   }
