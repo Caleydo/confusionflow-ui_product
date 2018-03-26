@@ -10,7 +10,7 @@
     "type": "api",
     "label": "malevo_server",
     "repo": "phovea/phovea_server",
-    "branch": "develop",
+    "branch": "NMO13/featues/diff_visualizations",
     "additional": [
       {
         "name": "malevo",
@@ -34,7 +34,7 @@
       {
         "type": "repo",
         "repo": "Caleydo/malevo",
-        "branch": "develop"
+        "branch": "NMO13/featues/diff_visualizations"
       }
     ]
   }
