@@ -3,7 +3,7 @@
     "type": "web",
     "label": "malevo",
     "repo": "Caleydo/malevo",
-    "branch": "NMO13/featues/diff_visualizations",
+    "branch": "develop",
     "additional": []
   },
   {
@@ -15,7 +15,7 @@
       {
         "name": "malevo",
         "repo": "Caleydo/malevo",
-        "branch": "NMO13/featues/diff_visualizations"
+        "branch": "develop"
       }
     ],
     "data": [
@@ -34,7 +34,7 @@
       {
         "type": "repo",
         "repo": "Caleydo/malevo",
-        "branch": "NMO13/featues/diff_visualizations"
+        "branch": "develop"
       }
     ]
   }
