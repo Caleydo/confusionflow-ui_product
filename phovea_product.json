@@ -5,37 +5,5 @@
     "repo": "Caleydo/malevo",
     "branch": "develop",
     "additional": []
-  },
-  {
-    "type": "api",
-    "label": "malevo_server",
-    "repo": "phovea/phovea_server",
-    "branch": "v2.0.0",
-    "additional": [
-      {
-        "name": "malevo",
-        "repo": "Caleydo/malevo",
-        "branch": "develop"
-      }
-    ],
-    "data": [
-      {
-        "type": "url",
-        "url": "malevo_cifar10_data.mdb"
-      },
-      {
-        "type": "url",
-        "url": "malevo_cifar10_rundata.db"
-      },
-      {
-        "type": "url",
-        "url": "malevo_cifar10_lock.mdb"
-      },
-      {
-        "type": "repo",
-        "repo": "Caleydo/malevo",
-        "branch": "develop"
-      }
-    ]
   }
 ]
