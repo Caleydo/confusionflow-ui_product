@@ -1,4 +1,4 @@
-malevo_product [![Phovea][phovea-image]][phovea-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+confusionflow-ui_product [![Phovea][phovea-image]][phovea-url] [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 =====================
 
 
@@ -7,8 +7,8 @@ Installation
 ------------
 
 ```
-git clone https://github.com/Caleydo/malevo_product.git
-cd malevo_product
+git clone https://github.com/Caleydo/confusionflow-ui_product.git
+cd confusionflow-ui_product
 npm install
 ```
 
@@ -36,9 +36,9 @@ This repository is part of **[Phovea](http://phovea.caleydo.org/)**, a platform 
 
 [phovea-image]: https://img.shields.io/badge/Phovea-Product-FABC15.svg
 [phovea-url]: https://phovea.caleydo.org
-[npm-image]: https://badge.fury.io/js/malevo_product.svg
-[npm-url]: https://npmjs.org/package/malevo_product
-[travis-image]: https://travis-ci.org/phovea/malevo_product.svg?branch=master
-[travis-url]: https://travis-ci.org/phovea/malevo_product
-[daviddm-image]: https://david-dm.org/phovea/malevo_product/status.svg
-[daviddm-url]: https://david-dm.org/phovea/malevo_product
+[npm-image]: https://badge.fury.io/js/confusionflow-ui_product.svg
+[npm-url]: https://npmjs.org/package/confusionflow-ui_product
+[travis-image]: https://travis-ci.org/phovea/confusionflow-ui_product.svg?branch=master
+[travis-url]: https://travis-ci.org/phovea/confusionflow-ui_product
+[daviddm-image]: https://david-dm.org/phovea/confusionflow-ui_product/status.svg
+[daviddm-url]: https://david-dm.org/phovea/confusionflow-ui_product
