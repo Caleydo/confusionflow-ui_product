@@ -1,23 +1,7 @@
-[
-  {
-    "type": "web",
-    "label": "malevo",
-    "repo": "Caleydo/malevo",
-    "branch": "master",
-    "additional": []
-  },
-  {
-    "type": "api",
-    "label": "malevo_server",
-    "repo": "phovea/phovea_server",
-    "branch": "v2.0.0",
-    "additional": [],
-    "data": [
-      {
-        "type": "repo",
-        "repo": "Caleydo/malevo",
-        "branch": "master"
-      }
-    ]
-  }
-]
+[{
+  "type": "web",
+  "label": "confusionflow-ui",
+  "repo": "Caleydo/confusionflow-ui",
+  "branch": "master",
+  "additional": []
+}]
