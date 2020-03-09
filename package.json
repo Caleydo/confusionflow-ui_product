@@ -8,8 +8,8 @@
     "bluebird": "3.4.6",
     "chalk": "1.1.3",
     "fs-extra": "^1.0.0",
-    "generator-phovea": "github:phovea/generator-phovea",
-    "lodash": "4.17.10",
+    "generator-phovea": "^4.0.0",
+    "lodash": "4.17.14",
     "mkdirp": "0.5.1",
     "yamljs": "0.2.8",
     "yargs-parser": "4.2.0",
@@ -20,9 +20,9 @@
   "homepage": "https://phovea.caleydo.org",
   "version": "1.0.0-SNAPSHOT",
   "author": {
-    "name": "Martin Ennemoser",
-    "email": "martin.ennemoser@jku.at",
-    "url": ""
+    "name": "The Caleydo Team",
+    "email": "contact@caleydo.org",
+    "url": "https://caleydo.org"
   },
   "license": "BSD-3-Clause",
   "bugs": {
@@ -30,6 +30,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/Caleydo/confusionflow_product.git"
+    "url": "git@github.com:Caleydo/confusionflow_product.git"
   }
 }
