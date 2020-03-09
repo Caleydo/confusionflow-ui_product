@@ -4,6 +4,12 @@
     "name": "confusionflow_product",
     "author": "The Caleydo Team",
     "today": "Tue, 19 Dec 2017 09:01:05 GMT",
-    "githubAccount": "phovea"
+    "githubAccount": "phovea",
+    "promptValues": {
+      "authorName": "The Caleydo Team",
+      "authorEmail": "contact@caleydo.org",
+      "authorUrl": "https://caleydo.org",
+      "githubAccount": "phovea"
+    }
   }
 }

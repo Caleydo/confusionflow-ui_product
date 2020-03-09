@@ -1,6 +1,6 @@
 [{
   "type": "web",
-  "label": "confusionflow-ui",
+  "label": "confusionflow",
   "repo": "Caleydo/confusionflow-ui",
   "branch": "master",
   "additional": []
